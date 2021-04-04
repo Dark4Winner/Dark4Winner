@@ -1,8 +1,8 @@
 ### Hi There, I am Methman 👋
-<a href="https://discordapp.com/users/671302260713717760/">
+<a href="https://discordapp.com/users/783986366954078218/">
   <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
- <a href="https://github.com/Elminstr">
+ <a href="https://github.com/Dark4Winner">
   <img align="left" alt="Methman" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -30,4 +30,4 @@ I am a passionate self-taught programmer from Turkey.
 <br />
   
 ⚡ Methman <br>
-“Ayağıma kapanıp ister para vermem.”
+“Patlat şampanyayı hakettik haksız mıyım?”
